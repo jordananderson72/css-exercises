@@ -1,0 +1,24 @@
+/* styles css */
+
+#title1 {
+color: #2a2ac2;
+font-size: 36px;
+}
+
+#title2 {
+background-color: #52c448;
+font-weight: bold;
+font-size: 24px;
+
+}
+
+
+.p {
+    background-color: #e78d9c;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+.ps{
+    font-size: 24px;
+}
